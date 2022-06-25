@@ -1,0 +1,33 @@
+[
+    {
+        "tokens": [
+            "But",
+            "the",
+            "Saint",
+            "Petersburg",
+            "summit",
+            "ended",
+            "without",
+            "any",
+            "formal",
+            "declaration",
+            "on",
+            "Iraq",
+            "."
+        ],
+        "sentence": "But the Saint Petersburg summit ended without any formal declaration on Iraq.",
+        "id": 26,
+        "event_type": "Contact:Meet",
+        "from": 4,
+        "to": 4,
+        "args": [
+            {
+                "role": "Place",
+                "entity_type": "GPE:Population-Center",
+                "start": 2,
+                "end": 3
+            }
+        ],
+        "flag": 1
+    }
+]
