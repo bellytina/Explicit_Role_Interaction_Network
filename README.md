@@ -1,4 +1,4 @@
-# Explicit_Role_Interaction_Network
+# EMNLP2022_Explicit_Role_Interaction_Network
 Here is the code for "Explicit Role Interaction Network for Event Argument Extraction".
 
 ## Data preprocessing
